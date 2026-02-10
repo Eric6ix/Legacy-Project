@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "a2763ac51c23bd18",
+    "type": "split",
+    "children": [
+      {
+        "id": "60aa14e22ce4e3aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8572c4b68d3c5aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projeto Legado/Cápsula do Tempo/⌛ Apenas ler após 1 ano. — em  2027-02-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "⌛ Apenas ler após 1 ano. — em  2027-02-10"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "176fc14fa9474e6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4336af70d8382e32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e9e9839335e6b70",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de ficheiros"
+            }
+          },
+          {
+            "id": "ddf91a2ea8ecb257",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "3f01dd939f8cc2f0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "18b6cec8990e2a34",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ca9e9a056889f19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e467fce49a2e182",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projeto Legado/Cápsula do Tempo/⌛ Apenas ler após 1 ano. — em  2027-02-10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks para ⌛ Apenas ler após 1 ano. — em  2027-02-10"
+            }
+          },
+          {
+            "id": "093a0087de918773",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links Externos"
+            }
+          },
+          {
+            "id": "ff10d76cba9b111b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7ca9381b149743f1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2f4081d379cba3d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Índice"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir Quick Switcher": false,
+      "graph:Abrir Visualização de diagrama de grafo": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir nota de hoje": false,
+      "templates:Inserir templates": false,
+      "command-palette:Abrir paleta de comando": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b8572c4b68d3c5aa",
+  "lastOpenFiles": [
+    "Projeto Legado/Plano A/Docker/Docker.md",
+    "Pasted image 20260210103540.png",
+    "Projeto Legado/Cápsula do Tempo/⌛ Apenas ler após 1 ano. — em  2027-02-10.md",
+    "Projeto Legado/Plano A/Docker/Dockerfile/Dockerfile - modelo.md",
+    "Projeto Legado/Plano A/Docker/Dockerfile",
+    "Projeto Legado/Plano A/Docker/Dockefile.md"
+  ]
+}
