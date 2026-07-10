@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b91b4a8c08907cf",
+        "id": "285566089a7efcb5",
         "type": "tabs",
         "children": [
           {
-            "id": "c9b531be2e1aaeec",
+            "id": "b64d17b0d068f00d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "07-07-2026 I  Kick start English"
             }
+          },
+          {
+            "id": "089af2b54c44726f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projeto Legado/English - Book/09-07-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09-07-2026"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,10 +196,13 @@
       "command-palette:Abrir paleta de comando": false
     }
   },
-  "active": "c9b531be2e1aaeec",
+  "active": "089af2b54c44726f",
   "lastOpenFiles": [
-    "Projeto Legado/nvim/Atalhos do nvim.md",
     "Projeto Legado/English - Book/07-07-2026 I  Kick start English.md",
+    "Projeto Legado/English - Book/09-07-2026.md",
+    "Projeto Legado/nvim/Atalhos do nvim.md",
+    "Projeto Legado/Cápsula do Tempo/⌛ Apenas ler após 1 ano. — em  2027-02-10.md",
+    "Projeto Legado/Plano A/Docker/Dockerfile/Dockerfile - modelo.md",
     "Projeto Legado/English - Book",
     "Projeto Legado/Plano A/Linux - notes/01 - Fundamentos de Linux e Arquitetura.md",
     "Projeto Legado/Plano A/Linux - notes/00 - Roadmap Linux.md",
@@ -192,10 +210,8 @@
     "Projeto Legado/Plano A/Linux - notes/base.md",
     "Projeto Legado/nvim",
     "Projeto Legado/Plano A/Backend/Java/Exercícos/Regra de negócio.md",
-    "Projeto Legado/Plano A/Docker/Dockerfile/Dockerfile - modelo.md",
     "Projeto Legado/Plano A/Backend/Java/Exercícos",
     "Projeto Legado/Plano A/Docker/Docker.md",
-    "Projeto Legado/Cápsula do Tempo/⌛ Apenas ler após 1 ano. — em  2027-02-10.md",
     "Pasted image 20260210103540.png",
     "Projeto Legado/Plano A/Docker/Dockerfile",
     "Projeto Legado/Plano A/Docker/Dockefile.md"
